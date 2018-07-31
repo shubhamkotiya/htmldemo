@@ -1,0 +1,52 @@
+.signup_form{
+  border:1px solid black;
+  overflow: auto;
+  width:50%;
+  margin: 40px;
+  background-color:  #000066;
+  display: none;
+}
+#signup_res{
+
+  margin-left: 100px;
+}
+#signup_res label{
+  color:white;
+}
+input[type=email],input[type=text],input[type=password] {
+
+  width:50%;
+}
+.form-group{
+  padding-bottom: 30px;
+}
+/* for login */
+.navbar{
+    background-color: #292F33;
+
+}
+.login_form{
+  display:none;
+  margin:30px;
+  border:1px solid black;
+  padding:20px;
+ 
+  width:50%;
+  overflow: auto;
+
+}
+/* for table */
+.table{
+  display:none;
+  margin-left: 20px;
+}
+
+#search{
+  width:25%;
+}
+span{
+  color:red;
+}
+#editModal{
+  display:none;
+}
