@@ -31,8 +31,9 @@ puts "ram"
  puts "master fact"
 puts "shu"
 
-<<<<<<< 46ec7cf81688e31386e5d29abba4c47017c5f0d3
 puts "B rebase 4"
-=======
+
 puts "rebase 1"
->>>>>>> master rebase 1
+
+puts "rebase 2"
+
