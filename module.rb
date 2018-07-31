@@ -25,3 +25,4 @@ d1.no_of_months
 # module can be extend and include not class
 # module instance method can be include and exclude
 # but module class method can be reqire and it is call throough only module not by target class
+put "module master"
