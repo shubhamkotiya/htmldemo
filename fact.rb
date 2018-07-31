@@ -18,3 +18,4 @@ var2=c.ram(5)
 puts (var2)
 var3 = c2.ram(8)
 puts "m2"
+puts "m3"
