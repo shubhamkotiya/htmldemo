@@ -27,5 +27,11 @@ d1.no_of_months
 # but module class method can be reqire and it is call throough only module not by target class
 
 puts "shubham"
+<<<<<<< 1efb7e0fd9a6d4d8e6067c93569f71686634cb3f
 put "module master"
 puts "B commit 2"
+=======
+put "module master
+
+puts "master commit 1"
+>>>>>>> m r 1
