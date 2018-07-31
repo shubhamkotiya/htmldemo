@@ -1,5 +1,5 @@
 .signup_form{
-  border:1px solid black;
+  border:2px solid black; /* edited here */
   overflow: auto;
   width:50%;
   margin: 40px;
