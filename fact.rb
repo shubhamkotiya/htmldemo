@@ -20,4 +20,4 @@ var3 = c2.ram(8)
 puts "m4"
 puts "m2"
 puts "m3"
-
+ puts "master m6"
