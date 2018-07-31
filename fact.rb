@@ -12,7 +12,7 @@ class Func
 end
 c = Func.new
 c1 = Func.new
+c2 = Func.new 
 var2=c.ram(5)
 puts (var2)
-
-var3 = c1.ram(8)
+var3 = c2.ram(8)
