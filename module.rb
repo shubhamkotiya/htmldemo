@@ -33,5 +33,9 @@ puts "B commit 2"
 =======
 put "module master
 
+<<<<<<< b6a9c6f013fe2cc4b1a371b464903c0a890bf24a
 puts "master commit 1"
 >>>>>>> m r 1
+=======
+puts "master commit 2"
+>>>>>>> m r 2
